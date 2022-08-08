@@ -24,6 +24,7 @@ public class Cars {
             generator = "cars_sequence"
     )
     private int id;
+    private String picture;
     private String type;
     private String brand;
     private float cost;
